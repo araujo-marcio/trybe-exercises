@@ -1,4 +1,4 @@
-#Exercícios - Parte I - Criação de arquivos e diretórios
+# Exercícios - Parte I - Criação de arquivos e diretórios
 
 Dica : Para criação de arquivos vazios você pode utilizar o comando touch nome-do-arquivo.extensao .
 Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.
@@ -30,7 +30,7 @@ Apague todos os arquivos que terminem em .txt .
 
 ----------------------------------------------------------------------------------------------------------
 
-#Parte II - Manipulação & Busca
+# Parte II - Manipulação & Busca
 
 Na pasta unix_tests , baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
 Copiar
